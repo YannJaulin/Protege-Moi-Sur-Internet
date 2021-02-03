@@ -68,7 +68,7 @@
                 <div class="py-4"></div>
 
                 <!-- Titre -->
-                <h1 class="font-weight-bold text-center">Présentation de Matrix Element</h1>
+                <h1 class="font-weight-bold text-center">Présentation de Matrix / Element</h1>
 
                 <!-- Séparateur -->
                 <div class="py-4"></div>
@@ -85,7 +85,7 @@
                 <div class="py-2"></div>
 
                 <!-- Présentation -->
-                <p class="lead text-center">Matrix Element vous permez de discuter dans des salons thematiques publics, ou entre amis dans des salons privés.</p>
+                <p class="lead text-center">Matrix / Element vous permez de discuter dans des salons thematiques publics, ou entre amis dans des salons privés.</p>
 
                 <!-- Séparateur -->
                 <div class="py-2"></div>
@@ -97,7 +97,7 @@
                 <div class="py-2"></div>
 
                 <!-- Présentation -->
-                <p class="lead text-center">Ce service est utilisé par l’État français (avec Tchap) et aussi disponibles gratuitement chez de nombreux CHATONS.</p>
+                <p class="lead text-center">Ce service est utilisé par l’État français (avec Tchap où la fédération est coupée) et est également disponibles gratuitement chez de nombreux CHATONS.</p>
 
                 <!-- Séparateur -->
                 <div class="py-4"></div>
