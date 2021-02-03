@@ -8,13 +8,13 @@
 
    <!-- Meta -->
    <meta name="author" content="Yann Jaulin">
-   <meta name="keywords" content="Communication, Messagerie, Jitsi Meet, Signal">
+   <meta name="keywords" content="Communication, Messagerie, Jitsi Meet, Signal, Matrix, Element">
    <meta name="description" content="Bienvenue sur la page des logiciels et des services de messagerie, proposée par Protège-moi sur Internet !">
 
    <?php
       require_once '../require/lien.php';
    ?>
-  
+
   </head>
   <body>
 
@@ -71,6 +71,16 @@
             <h5 class="card-title">Signal</h5>
             <p class="card-text">La messagerie conseillée par Edward Snowden !</p>
             <a href="https://protege-moi-sur-internet.com/messagerie/signal.php" role="button" class="btn">En savoir plus</a>
+          </div>
+        </div>
+      </div>
+      <div class="col mb-4">
+        <div class="card h-100">
+          <img src="https://protege-moi-sur-internet.com/images/element.png" class="card-img-top" alt="">
+          <div class="card-body">
+            <h5 class="card-title">Matrix Element</h5>
+            <p class="card-text">La messagerie instantanée fédéré et décentralisé !</p>
+            <a href="https://protege-moi-sur-internet.com/messagerie/matrix.php" role="button" class="btn">En savoir plus</a>
           </div>
         </div>
       </div>
