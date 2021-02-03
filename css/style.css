@@ -1,0 +1,20 @@
+.btn, .btn:hover {
+    background-color: midnightblue;
+    color: white;
+    text-decoration: underline;
+  }
+
+  footer a, footer a:hover {
+    color: midnightblue;
+    text-decoration: underline;
+  }
+
+  .breadcrumb {
+   background-color: midnightblue;
+   color: white;
+  }
+ 
+  .breadcrumb-item a, .breadcrumb-item a:hover {
+   color: white;
+   text-decoration: underline;
+  }
