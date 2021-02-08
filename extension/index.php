@@ -59,7 +59,7 @@
               <img src="https://protege-moi-sur-internet.com/images/clearurls.png" class="card-img-top" alt="">
               <div class="card-body">
                 <h5 class="card-title">ClearURLs</h5>
-                <p class="card-text">Une extension qui supprime les éléments de traçage !</p>
+                <p class="card-text">Une extension qui supprime les éléments de traçage des liens !</p>
                 <a href="https://protege-moi-sur-internet.com/extension/clearurls.php" role="button" class="btn">En savoir plus</a>
               </div>
             </div>
@@ -79,7 +79,7 @@
               <img src="https://protege-moi-sur-internet.com/images/httpseverywhere.jpg" class="card-img-top" alt="">
               <div class="card-body">
                 <h5 class="card-title">HTTPS Everywhere</h5>
-                <p class="card-text">Une extension pour chiffrer tout les sites !</p>
+                <p class="card-text">Une extension qui chiffre la communication avec les sites !</p>
                 <a href="https://protege-moi-sur-internet.com/extension/httpseverywhere.php" role="button" class="btn">En savoir plus</a>
               </div>
             </div>

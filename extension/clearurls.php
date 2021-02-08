@@ -80,7 +80,7 @@
                 <div class="py-2"></div>
 
                 <!-- Présentation -->
-                <p class="lead text-center">Elle supprime automatiquement les éléments de suivi des sites Internet pour protéger votre vie privée.</p>
+                <p class="lead text-center">Elle supprime automatiquement les éléments de suivi des liens pour protéger votre vie privée.</p>
                 
                 <!-- Séparateur -->
                 <div class="py-2"></div>

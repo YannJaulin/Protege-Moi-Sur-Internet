@@ -197,7 +197,7 @@
                   <img src="https://protege-moi-sur-internet.com/images/vpn.png" class="card-img-top" alt="">
                   <div class="card-body">
                     <h5 class="card-title">VPN</h5>
-                    <p class="card-text">Pour être mieux protégé sur Internet !</p>
+                    <p class="card-text">Pour conserver son anonymat sur Internet !</p>
                     <a href="https://protege-moi-sur-internet.com/vpn/" role="button" class="btn">Voir la liste</a>
                   </div>
                 </div>
