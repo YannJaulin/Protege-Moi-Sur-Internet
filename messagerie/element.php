@@ -3,13 +3,13 @@
   <head>
 
    <!-- Title -->
-   <title>Protège-moi sur Internet - Matrix / Element</title>
-   <link rel="canonical" href="https://protege-moi-sur-internet.com/messagerie/matrix.php">
+   <title>Protège-moi sur Internet - Element</title>
+   <link rel="canonical" href="https://protege-moi-sur-internet.com/messagerie/element.php">
 
    <!-- Meta -->
-   <meta name="author" content="Yann Jaulin & Fanch">
-   <meta name="keywords" content="Communication, Messagerie, Matrix, Element">
-   <meta name="description" content="Bienvenue sur la page de présentation de Matrix Element, proposée par Protège-moi sur Internet !">
+   <meta name="author" content="Yann Jaulin & Les contributeurs GitHub">
+   <meta name="keywords" content="Communication, Messagerie, Element, Matrix, New Vector Ltd">
+   <meta name="description" content="Bienvenue sur la page de présentation de Element, proposée par Protège-moi sur Internet !">
 
    <?php
       require_once '../require/lien.php';
@@ -42,7 +42,7 @@
                 <ol class="breadcrumb">
                   <li class="breadcrumb-item"><a href="https://protege-moi-sur-internet.com/">Accueil</a></li>
                   <li class="breadcrumb-item"><a href="https://protege-moi-sur-internet.com/messagerie/">Messagerie</a></li>
-                  <li class="breadcrumb-item" aria-current="page">Matrix Element</li>
+                  <li class="breadcrumb-item" aria-current="page">Element</li>
                 </ol>
             </nav>
         </div>
@@ -59,7 +59,7 @@
                 <!-- Logo -->
                 <div class="text-center">
                     <figure>
-                        <img src="https://protege-moi-sur-internet.com/images/element.png" class="img-thumbnail" alt="Logo d'Element">
+                        <img src="https://protege-moi-sur-internet.com/images/element.png" class="img-thumbnail" alt="Logo de Element">
                         <figcaption>Logo du site de Element</figcaption>
                     </figure>
                 </div>
@@ -68,36 +68,37 @@
                 <div class="py-4"></div>
 
                 <!-- Titre -->
-                <h1 class="font-weight-bold text-center">Présentation de Matrix / Element</h1>
+                <h1 class="font-weight-bold text-center">Présentation de Element</h1>
 
                 <!-- Séparateur -->
                 <div class="py-4"></div>
 
                 <!-- Présentation -->
-                <p class="lead text-center">Matrix est un service fédéré et decentralisé de messagerie instantanée sur internet.</p>
-
-                <div class="py-4"></div>
-
-                <!-- Présentation -->
-                <p class="lead text-center">Element est le logiciel qui permet de se connecter à ce service.</p>
+                <p class="lead text-center">Element est un logiciel de messagerie de la société anglaise New Vector Ltd.</p>
 
                 <!-- Séparateur -->
                 <div class="py-2"></div>
 
                 <!-- Présentation -->
-                <p class="lead text-center">Matrix / Element vous permez de discuter dans des salons thematiques publics, ou entre amis dans des salons privés.</p>
+                <p class="lead text-center">Précédemment Riot, il est basé sur Matrix qui est un protocole décentralisé et sécurisé.</p>
 
                 <!-- Séparateur -->
                 <div class="py-2"></div>
 
                 <!-- Présentation -->
-                <p class="lead text-center">C'est un logiciel libre, multi-plateforme et vous pouvez l'héberger sur votre serveur.</p>
+                <p class="lead text-center">Open source et multi-plateforme, vous pouvez créer des groupes, partager des médias, passer des appels vidéos et bien d'autres choses.</p>
 
                 <!-- Séparateur -->
                 <div class="py-2"></div>
 
                 <!-- Présentation -->
-                <p class="lead text-center">Ce service est utilisé par l’État français (avec Tchap où la fédération est coupée) et est également disponibles gratuitement chez de nombreux CHATONS.</p>
+                <p class="lead text-center">De plus, vous pouvez héberger un serveur Matrix et le rendre fédéré et chiffrée.</p>
+
+                <!-- Séparateur -->
+                <div class="py-2"></div>
+
+                <!-- Présentation -->
+                <p class="lead text-center">Enfin, il est disponible sur F-Droid et la direction interministérielle du numérique française a développé le logiciel Tchap à partir de son code, afin de sécuriser les communications de ses agents publics, tout comme Thales avec Citadel Team.</p>
 
                 <!-- Séparateur -->
                 <div class="py-4"></div>
@@ -110,14 +111,14 @@
 
                 <!-- site -->
                 <div class="btn-toolbar justify-content-center" role="toolbar" aria-label="Groupe de liens">
-                  <div class="btn-group mr-2" role="group" aria-label="Site de Matrix">
-                    <a href="https://matrix.org/" target="_blank" role="button" class="btn">Site officiel Matrix<i class="fa fa-external-link" aria-hidden="true"></i></a>
+                  <div class="btn-group mr-2" role="group" aria-label="Site de Element">
+                    <a href="https://element.io/" target="_blank" role="button" class="btn">Site officiel <i class="fa fa-external-link" aria-hidden="true"></i></a>
                   </div>
-                  <div class="btn-group" role="group" aria-label="Site d'Element">
-                    <a href="https://element.io/" target="_blank" role="button" class="btn">Site officiel Element<i class="fa fa-external-link" aria-hidden="true"></i></a>
+                  <div class="btn-group mr-2" role="group" aria-label="Documentation de Element">
+                    <a href="https://element.io/help" target="_blank" role="button" class="btn">Documentation <i class="fa fa-external-link" aria-hidden="true"></i></a>
                   </div>
-                  <div class="btn-group" role="group" aria-label="Documentation en français">
-                    <a href="https://tedomum.net/service/matrix/" target="_blank" role="button" class="btn">Documentation en français<i class="fa fa-external-link" aria-hidden="true"></i></a>
+                  <div class="btn-group" role="group" aria-label="Site de Matrix">
+                    <a href="https://matrix.org/" target="_blank" role="button" class="btn">Matrix <i class="fa fa-external-link" aria-hidden="true"></i></a>
                   </div>
                 </div>
 
