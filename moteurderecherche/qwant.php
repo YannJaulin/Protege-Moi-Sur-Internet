@@ -74,7 +74,7 @@
                 <div class="py-4"></div>
 
                 <!-- Présentation -->
-                <p class="lead text-center">Qwant est un moteur de recherche de français.</p>
+                <p class="lead text-center">Qwant est un moteur de recherche français.</p>
 
                 <!-- Séparateur -->
                 <div class="py-2"></div>
