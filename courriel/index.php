@@ -8,7 +8,7 @@
 
    <!-- Meta -->
    <meta name="author" content="Yann Jaulin">
-   <meta name="keywords" content="Communication, Courriel, ProtonMail, Tutanota">
+   <meta name="keywords" content="Communication, Courriel, Posteo, ProtonMail, Tutanota">
    <meta name="description" content="Bienvenue sur la page des services de courriel, proposée par Protège-moi sur Internet !">
 
    <?php
@@ -56,10 +56,20 @@
         <div class="row row-cols-1 row-cols-md-3">
           <div class="col mb-4">
             <div class="card h-100">
+              <img src="https://protege-moi-sur-internet.com/images/posteo.jpg" class="card-img-top" alt="">
+              <div class="card-body">
+                <h5 class="card-title">Posteo</h5>
+                <p class="card-text">Un service de courrier vert !</p>
+                <a href="https://protege-moi-sur-internet.com/courriel/posteo.php" role="button" class="btn">En savoir plus</a>
+              </div>
+            </div>
+          </div>
+          <div class="col mb-4">
+            <div class="card h-100">
               <img src="https://protege-moi-sur-internet.com/images/protonmail.jpg" class="card-img-top" alt="">
               <div class="card-body">
                 <h5 class="card-title">ProtonMail</h5>
-                <p class="card-text">Un service de courrier suisse sécurisé !</p>
+                <p class="card-text">Un service de courrier anonyme !</p>
                 <a href="https://protege-moi-sur-internet.com/courriel/protonmail.php" role="button" class="btn">En savoir plus</a>
               </div>
             </div>
@@ -69,7 +79,7 @@
               <img src="https://protege-moi-sur-internet.com/images/tutanota.png" class="card-img-top" alt="">
               <div class="card-body">
                 <h5 class="card-title">Tutanota</h5>
-                <p class="card-text">Un service de courrier allemand sécurisé !</p>
+                <p class="card-text">Un service de courrier sécurisé !</p>
                 <a href="https://protege-moi-sur-internet.com/courriel/tutanota.php" role="button" class="btn">En savoir plus</a>
               </div>
             </div>
