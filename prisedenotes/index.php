@@ -58,7 +58,7 @@
             <div class="card h-100">
               <img src="https://protege-moi-sur-internet.com/images/standardnotes.jpg" class="card-img-top" alt="">
               <div class="card-body">
-                <h5 class="card-title">Standard Notes</h5>
+                <h5 class="card-title">Standard Notes <span class="badge badge-pill badge-primary"><i class="fa fa-cloud" aria-hidden="true"></i></span></h5>
                 <p class="card-text">Une application de prise de notes chiffrée et personnalisable !</p>
                 <a href="https://protege-moi-sur-internet.com/prisedenotes/standardnotes.php" role="button" class="btn">En savoir plus</a>
               </div>
@@ -68,7 +68,7 @@
             <div class="card h-100">
               <img src="https://protege-moi-sur-internet.com/images/turtl.jpg" class="card-img-top" alt="">
               <div class="card-body">
-                <h5 class="card-title">Turtl</h5>
+                <h5 class="card-title">Turtl <span class="badge badge-pill badge-primary"><i class="fa fa-cloud" aria-hidden="true"></i></span></h5>
                 <p class="card-text">Une application de prise de notes collaborative et complète !</p>
                 <a href="https://protege-moi-sur-internet.com/prisedenotes/turtl.php" role="button" class="btn">En savoir plus</a>
               </div>
