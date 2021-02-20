@@ -58,7 +58,7 @@
             <div class="card h-100">
               <img src="https://protege-moi-sur-internet.com/images/bitwarden.jpg" class="card-img-top" alt="">
               <div class="card-body">
-                <h5 class="card-title">Bitwarden</h5>
+                <h5 class="card-title">Bitwarden <span class="badge badge-pill badge-primary"><i class="fa fa-cloud" aria-hidden="true"></i></span></h5>
                 <p class="card-text">Un gestionnaire de mots de passe dans le nuage !</p>
                 <a href="https://protege-moi-sur-internet.com/gestionnairedemotsdepasse/bitwarden.php" role="button" class="btn">En savoir plus</a>
               </div>

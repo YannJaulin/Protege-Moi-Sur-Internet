@@ -58,7 +58,7 @@
         <div class="card h-100">
           <img src="https://protege-moi-sur-internet.com/images/element.png" class="card-img-top" alt="">
           <div class="card-body">
-            <h5 class="card-title">Element</h5>
+            <h5 class="card-title">Element <span class="badge badge-pill badge-primary"><i class="fa fa-cloud" aria-hidden="true"></i></span></h5>
             <p class="card-text">Un logiciel basé sur le protocole Matrix !</p>
             <a href="https://protege-moi-sur-internet.com/messagerie/element.php" role="button" class="btn">En savoir plus</a>
           </div>
@@ -68,7 +68,7 @@
         <div class="card h-100">
           <img src="https://protege-moi-sur-internet.com/images/jitsimeet.png" class="card-img-top" alt="">
           <div class="card-body">
-            <h5 class="card-title">Jitsi Meet</h5>
+            <h5 class="card-title">Jitsi Meet <span class="badge badge-pill badge-primary"><i class="fa fa-cloud" aria-hidden="true"></i></span></h5>
             <p class="card-text">Un service libre de visioconférence !</p>
             <a href="https://protege-moi-sur-internet.com/messagerie/jitsimeet.php" role="button" class="btn">En savoir plus</a>
           </div>

@@ -78,7 +78,7 @@
             <div class="card h-100">
               <img src="https://protege-moi-sur-internet.com/images/searx.png" class="card-img-top" alt="">
               <div class="card-body">
-                <h5 class="card-title">Searx</h5>
+                <h5 class="card-title">Searx <span class="badge badge-pill badge-primary"><i class="fa fa-cloud" aria-hidden="true"></i></span></h5>
                 <p class="card-text">Un métamoteur de recherche open source et qui peut être auto-hébergé !</p>
                 <a href="https://protege-moi-sur-internet.com/moteurderecherche/searx.php" role="button" class="btn">En savoir plus</a>
               </div>
