@@ -117,8 +117,11 @@
                   <div class="btn-group mr-2" role="group" aria-label="Documentation de LibreOffice">
                     <a href="https://documentation.libreoffice.org/fr/documentation-en-francais/" target="_blank" role="button" class="btn">Documentation <i class="fa fa-external-link" aria-hidden="true"></i></a>
                   </div>
-                  <div class="btn-group" role="group" aria-label="Site de Collabora">
+                  <div class="btn-group mr-2" role="group" aria-label="Site de Collabora">
                     <a href="https://www.collaboraoffice.com/" target="_blank" role="button" class="btn">Collabora <i class="fa fa-external-link" aria-hidden="true"></i></a>
+                  </div>
+                  <div class="btn-group" role="group" aria-label="Analyse de εxodus">
+                    <a href="https://reports.exodus-privacy.eu.org/fr/reports/com.collabora.libreoffice/latest/" target="_blank" role="button" class="btn">εxodus <i class="fa fa-external-link" aria-hidden="true"></i></a>
                   </div>
                 </div>
 

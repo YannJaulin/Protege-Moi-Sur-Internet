@@ -111,8 +111,11 @@
                   <div class="btn-group mr-2" role="group" aria-label="Documentation de Firefox">
                     <a href="https://support.mozilla.org/fr/products" target="_blank" role="button" class="btn">Documentation <i class="fa fa-external-link" aria-hidden="true"></i></a>
                   </div>
-                  <div class="btn-group" role="group" aria-label="Configuration de Firefox">
+                  <div class="btn-group mr-2" role="group" aria-label="Configuration de Firefox">
                     <a href="https://github.com/YannJaulin/user.js" target="_blank" role="button" class="btn">Configuration <i class="fa fa-external-link" aria-hidden="true"></i></a>
+                  </div>
+                  <div class="btn-group" role="group" aria-label="Analyse de εxodus">
+                    <a href="https://reports.exodus-privacy.eu.org/fr/reports/org.mozilla.firefox/latest/" target="_blank" role="button" class="btn">εxodus <i class="fa fa-external-link" aria-hidden="true"></i></a>
                   </div>
                 </div>
 

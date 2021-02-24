@@ -108,8 +108,11 @@
                   <div class="btn-group mr-2" role="group" aria-label="Site de Qwant">
                     <a href="https://www.qwant.com/" target="_blank" role="button" class="btn">Site officiel <i class="fa fa-external-link" aria-hidden="true"></i></a>
                   </div>
-                  <div class="btn-group" role="group" aria-label="Documentation de Qwant">
+                  <div class="btn-group mr-2" role="group" aria-label="Documentation de Qwant">
                     <a href="https://help.qwant.com/fr/" target="_blank" role="button" class="btn">Documentation <i class="fa fa-external-link" aria-hidden="true"></i></a>
+                  </div>
+                  <div class="btn-group" role="group" aria-label="Analyse de εxodus">
+                    <a href="https://reports.exodus-privacy.eu.org/fr/reports/com.qwant.liberty/latest/" target="_blank" role="button" class="btn">εxodus <i class="fa fa-external-link" aria-hidden="true"></i></a>
                   </div>
                 </div>
 
