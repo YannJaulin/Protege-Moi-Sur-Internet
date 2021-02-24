@@ -108,8 +108,14 @@
                   <div class="btn-group mr-2" role="group" aria-label="Site de Jitsi Meet">
                     <a href="https://jitsi.org/jitsi-meet/" target="_blank" role="button" class="btn">Site officiel <i class="fa fa-external-link" aria-hidden="true"></i></a>
                   </div>
-                  <div class="btn-group" role="group" aria-label="Documentation de Jitsi Meet">
+                  <div class="btn-group mr-2" role="group" aria-label="Documentation de Jitsi Meet">
                     <a href="https://jitsi.github.io/handbook/docs/intro" target="_blank" role="button" class="btn">Documentation <i class="fa fa-external-link" aria-hidden="true"></i></a>
+                  </div>
+                  <div class="btn-group mr-2" role="group" aria-label="Analyse de εxodus">
+                    <a href="https://reports.exodus-privacy.eu.org/fr/reports/org.jitsi.meet/latest/" target="_blank" role="button" class="btn">εxodus <i class="fa fa-external-link" aria-hidden="true"></i></a>
+                  </div>
+                  <div class="btn-group" role="group" aria-label="Service des CHATONS">
+                    <a href="https://wiki.chatons.org/doku.php/la_visio-conference_avec_jitsi" target="_blank" role="button" class="btn">CHATONS <i class="fa fa-external-link" aria-hidden="true"></i></a>
                   </div>
                 </div>
 

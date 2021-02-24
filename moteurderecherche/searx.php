@@ -102,8 +102,11 @@
                   <div class="btn-group mr-2" role="group" aria-label="Site de Searx">
                     <a href="https://searx.me/" target="_blank" role="button" class="btn">Site officiel <i class="fa fa-external-link" aria-hidden="true"></i></a>
                   </div>
-                  <div class="btn-group" role="group" aria-label="Documentation de Searx">
+                  <div class="btn-group mr-2" role="group" aria-label="Documentation de Searx">
                     <a href="https://searx.github.io/searx/" target="_blank" role="button" class="btn">Documentation <i class="fa fa-external-link" aria-hidden="true"></i></a>
+                  </div>
+                  <div class="btn-group" role="group" aria-label="Service des CHATONS">
+                    <a href="https://wiki.chatons.org/doku.php/les_meta-moteurs_de_recherche" target="_blank" role="button" class="btn">CHATONS <i class="fa fa-external-link" aria-hidden="true"></i></a>
                   </div>
                 </div>
 
